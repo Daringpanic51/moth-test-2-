@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/EVE/moff/mcolores"
+	"$lightwarptexture" "models/EVE/moff/lightwarp"
+}
